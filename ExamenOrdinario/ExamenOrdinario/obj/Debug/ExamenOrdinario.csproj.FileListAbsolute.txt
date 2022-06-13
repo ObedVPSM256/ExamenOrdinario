@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\bin\Debug\ExamenOrdinario.exe.config
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\bin\Debug\ExamenOrdinario.exe
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\bin\Debug\ExamenOrdinario.pdb
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\obj\Debug\ExamenOrdinario.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\obj\Debug\ExamenOrdinario.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\obj\Debug\ExamenOrdinario.exe
+C:\Users\Laboratorio\source\repos\ExamenOrdinario\ExamenOrdinario\obj\Debug\ExamenOrdinario.pdb

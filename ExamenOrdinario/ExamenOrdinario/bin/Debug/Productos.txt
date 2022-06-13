@@ -1,0 +1,7 @@
+Tacos 3 25.99
+a 43 2.3
+A 54 56.9
+Tacos de papaya 45 5.67
+AX2 5 4.7
+Tacos al pastor con asada 25 4.66
+4 35 6.43
